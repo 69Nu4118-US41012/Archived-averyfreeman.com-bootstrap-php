@@ -13,7 +13,7 @@ Simple framework:\
   \
 \
 Simple includes folder: Has navbar in header.php, FA social links and dynamic copyright date in footer\
-
+ \
 Current work:\
   Adding 'articles' to navbar as dropdown context\
   Altering content - less vague; feature info about Samba/Active Directory and open source/*Nix* skills\
