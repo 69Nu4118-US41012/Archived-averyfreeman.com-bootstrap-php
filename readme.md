@@ -19,12 +19,12 @@ Current work:\
   Altering content - less vague; feature info about Samba/Active Directory and open source/*Nix* skills\
   Removing DJ promo section (I don't really DJ anymore) but probably leave music archive\
   \
-Future goals:\ 
+Future goals:\
   Add a carousel for something (not sure what)\
 \
 \
 Slate theme from bootswatch.com: https://bootswatch.com/slate/
-\
-\
+ \
+ \
 
 ## Also, Mur.
