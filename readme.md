@@ -23,7 +23,7 @@ Future goals:\
   Add a carousel for something (not sure what)\
 \
 \
-Slate theme from bootswatch.com: https://bootswatch.com/slate/\
+Slate theme from bootswatch.com: https://bootswatch.com/slate/
 \
 \
 ## Also, Mur.
