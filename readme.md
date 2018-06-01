@@ -1,5 +1,5 @@
 # averyfreemancom
-Shameless self promotion
+Shameless web promotion
 
 Simple framework:\
   HTML\
