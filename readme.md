@@ -1,6 +1,9 @@
 # averyfreemancom
-Shameless web promotion
-
+Shameless web promotion\
+\
+http://averyfreeman.com
+\
+\
 Simple framework:\
   HTML\
   PHP\
