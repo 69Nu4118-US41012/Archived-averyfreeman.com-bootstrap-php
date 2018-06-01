@@ -16,7 +16,8 @@ Simple includes folder: Has navbar in header.php, FA social links and dynamic co
 
 Current work:\
   Adding 'articles' to navbar as dropdown context\
-  Altering content\
+  Altering content - less vague; feature info about Samba/Active Directory and open source/*Nix* skills\
+  Removing DJ promo section (I don't really DJ anymore) but probably leave music archive\
   \
 Future goals:\ 
   Add a carousel for something (not sure what)\
@@ -25,4 +26,4 @@ Future goals:\
 Slate theme from bootswatch.com: https://bootswatch.com/slate/\
 \
 \
-## Mur.
+## Also, Mur.
