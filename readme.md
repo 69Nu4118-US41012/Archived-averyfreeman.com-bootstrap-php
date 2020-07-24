@@ -1,7 +1,7 @@
 # averyfreemancom
-Shameless web promotion\
+## Archived
 \
-http://averyfreeman.com
+https://averyfreeman.com/bootstrap-website/
 \
 \
 Simple framework:\
@@ -24,6 +24,3 @@ Future goals:\
 \
 \
 Slate theme from bootswatch.com: https://bootswatch.com/slate/
- 
-
-## Also, Mur.
